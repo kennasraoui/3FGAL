@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    {{ __('Welcome to 3FG ALUMINUIM') }}
                 </div>
             </div>
         </div>
